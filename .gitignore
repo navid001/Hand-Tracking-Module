@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+env/
+venv/
+.env
+.env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# Python cache and logs
+*.log
+*.pot
+*.pyo
+*.pyc
+*.pyd
+*.pdb
+*.so
+*.egg-info/
+*.eggs/
+*.coverage
+.coverage.*
+
+# Test result folders
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.cache/
+
+# Packaging files
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# IDE / Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MyPy type checking files
+.mypy_cache/
+.dmypy.json
+
+# Profiling data
+.prof
+
+# pip file for dependency management
+pip-log.txt
+
+# Environment variables and secret keys
+.env
+.env.*
+
+# PyInstaller build folder
+output/
+
+# Local .gitignore override
+.gitignore_local
